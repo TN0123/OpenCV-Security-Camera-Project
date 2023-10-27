@@ -1,2 +1,2 @@
 # Open-CV-Security-Camera-Project
-A program that takes input from a live camera and identifies the humans in frame
+This program uses the pre-trained mobilenet SSD object detection model to identify and draw a box around the people in frame, taking input from a live camera
